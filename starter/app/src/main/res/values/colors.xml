@@ -7,4 +7,6 @@
     <color name="default_text_color">#FFFFFF</color>
     <color name="text_grey">#D2D2D2</color>
     <color name="potentially_hazardous">#FF8282</color>
+    <color name="headerPrimary">#8e24aa</color>
+    <color name="textPrimary">#e1bee7</color>
 </resources>

@@ -8,4 +8,16 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="HeaderText" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/headerPrimary</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_margin">@dimen/list_item_margin</item>
+    </style>
+
+    <style name="detailText">
+        <item name="android:textColor">@color/textPrimary</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:paddingBottom">@dimen/list_item_padding</item>
+    </style>
+
 </resources>
